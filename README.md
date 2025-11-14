@@ -46,7 +46,7 @@ ai-pdf-adk-demo/
 
 ### 1️⃣ Clone & create environment
 ```bash
-git clone https://github.com/venkatdhurjati49-droid/test.git
+git clone https://github.com/venkatdhurjati49-droid/sample-project
 cd ai-pdf-adk-demo
 
 python -m venv .venv
