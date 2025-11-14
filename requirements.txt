@@ -1,0 +1,19 @@
+# === Core Libraries ===
+python-dotenv
+rich
+pydantic>=2.0
+
+# === PDF Processing ===
+pymupdf  # PyMuPDF for PDF text extraction
+
+# === Embeddings and Vector Search ===
+sentence-transformers
+faiss-cpu
+numpy
+
+# === Google Gemini SDK ===
+google-genai>=1.49.0
+
+# === (Optional for API) ===
+fastapi
+uvicorn
