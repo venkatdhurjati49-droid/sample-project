@@ -137,7 +137,7 @@ POST http://localhost:8000/ask?query=What is dice rule?
 
 ## 📽️ Demo Video
 
-🎥 [Loom or YouTube link here]((https://www.loom.com/share/e12dd8866c3d46749a5988efa1ddf9f7 ])
+🎥 ((https://www.loom.com/share/e12dd8866c3d46749a5988efa1ddf9f7 ])
 
 
 ---
